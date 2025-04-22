@@ -1,0 +1,1 @@
+Hello! This is my attempt at the challenge, and in this folder, I've included a cleaned-up version of the pdf and ipynb in the main branch.
